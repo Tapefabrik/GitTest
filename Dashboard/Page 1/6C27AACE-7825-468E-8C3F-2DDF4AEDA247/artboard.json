@@ -47,11 +47,19 @@
     },
     {
       "class": "shapeGroup",
-      "id": "D49F085C-9262-4595-BEDA-079EEA20F1E7"
+      "id": "2B510496-51F5-4A04-9BAB-43EE5819A293"
     },
     {
       "class": "symbolInstance",
       "id": "A87C7E1C-305A-4FF7-A625-CA651055915C"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "CCA02D4A-836C-43F7-B87E-55E647EFF952"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "591E080C-89DA-4DE8-A585-9C0B7E76A2B0"
     }
   ],
   "name": "Navigation Structure",
